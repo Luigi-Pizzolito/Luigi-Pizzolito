@@ -23,9 +23,15 @@
     </a>
   </div>
   <div id="mini-stats">
-    <img alt="WhatPulse user metric keys" src="https://img.shields.io/whatpulse/keys/user/1374975?color=2db7ac&label=Keyboard%20Keys&logo=linux&logoColor=white&style=flat-square">
-    <img src="https://komarev.com/ghpvc/?username=Luigi-Pizzolito&color=074dcd&style=flat-square&label=GH Profile Views" alt="GitHub Profile View Counter Badge" />
-    <img alt="WhatPulse user metric" src="https://img.shields.io/whatpulse/clicks/user/1374975?color=2db7ac&label=Mouse%20Clicks&logo=linux&logoColor=white&style=flat-square">
+    <a href="https://whatpulse.org/Luigi_Pizzolito_">
+      <img alt="WhatPulse user metric keys" src="https://img.shields.io/whatpulse/keys/user/1374975?color=2db7ac&label=Keyboard%20Keys&logo=linux&logoColor=white&style=flat-square">
+    </a>
+    <a href="https://github.com/Luigi-Pizzolito">
+      <img src="https://komarev.com/ghpvc/?username=Luigi-Pizzolito&color=074dcd&style=flat-square&label=GH Profile Views" alt="GitHub Profile View Counter Badge" />
+    </a>
+    <a href="https://whatpulse.org/Luigi_Pizzolito_">
+      <img alt="WhatPulse user metric" src="https://img.shields.io/whatpulse/clicks/user/1374975?color=2db7ac&label=Mouse%20Clicks&logo=linux&logoColor=white&style=flat-square">
+    </a>
   </div>
 </div>
 
@@ -33,12 +39,12 @@
 
 ### :speech_balloon: About Me :
 
-I'm a student, electronics and software hobbyist, all around nerd, from Brazil/Italy.
+I'm a student, electronics and software hobbyist, all around nerd, from Brasil & Italy.
 
 <!-- - 🔭 I’m currently working on ... -->
 - :toolbox: I'm interested in: electronic product development, networking and web, Linux, embedded system design, open-source, and software engineering.
-- 🎓 I’m currently studying Information and Electronic Science and Technology BSc at Beijing Institute of Technology.
-- ⚡ In my free time, I work on hardware and software projects. Which you can find on here, on my social media, or on my website (click my logo above).
+- 🎓 I’m currently studying Information and Electronic Science & Technology BSc at Beijing Institute of Technology.
+- :mantelpiece_clock: In my free time, I work on hardware and software projects. Which you can find on here, on my social media, or on my website (click my logo above).
 - :notes: My hobbies include: playing bass guitar, producing music, sound engineering for theare, 3D animation and motion graphics effects.
 - :computer: I use Arch Linux, btw. Also Windows, and previously MacOS.
 - 📫 How to reach me: DM me on any social media, or [email](mailto:luigi.pizzolito@hotmail.com).
