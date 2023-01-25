@@ -47,6 +47,7 @@ I'm a student, electronics and software hobbyist, all around nerd, from Brazil/I
 
 ### :hammer_and_wrench: Languages and Tools :
 <div id="tool-icons">
+  <!-- In future link these to website by tag category -->
   <!-- Embedded -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg" title="Embedded C" alt="Embedded C" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
