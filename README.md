@@ -89,4 +89,18 @@ I'm a student, electronics and software hobbyist, all around nerd, from Brazil/I
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luigi-Pizzolito&show_icons=true&count_private=true&include_all_commits=true&theme=transparent&icon_color=2db7ac&title_color=074dcd&text_color=808080&hide_border=true)
 ![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Luigi-Pizzolito&layout=compact&count_private=true&langs_count=8&theme=transparent&icon_color=2db7ac&title_color=074dcd&text_color=808080&hide_border=true)
 
-<!--- In future add list of website blog posts here too: see https://www.sitepoint.com/github-profile-readme/ -->
+<!---
+In future add list of website blog posts here too: see https://www.sitepoint.com/github-profile-readme/ 
+---
+
+### ⌨️ Blog Posts :
+
+-->
+<!---
+In future add list of projects I'm happy with here too:
+---
+
+### 😎 Projects I'm Happy With :
+
+[![IFTTT-Dash-Button](https://github-readme-stats.vercel.app/api/pin/?username=Luigi-Pizzolito&repo=IFTTT-Dash-Button&theme=transparent&icon_color=8b949e&title_color=8b949e&text_color=808080&hide_border=true)](https://github.com/Luigi-Pizzolito/IFTTT-Dash-Button)
+-->
