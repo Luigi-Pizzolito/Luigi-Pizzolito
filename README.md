@@ -41,7 +41,7 @@ I'm a student, electronics and software hobbyist, all around nerd, from Brazil/I
 - ⚡ In my free time, I work on hardware and software projects. Which you can find on here, on my social media, or on my website (click my logo above).
 - :notes: My hobbies include: playing bass guitar, producing music, sound engineering for theare, 3D animation and motion graphics effects.
 - :computer: I use Arch Linux, btw. Also Windows, and previously MacOS.
-- 📫 How to reach me: DM me on any social media, or [email](mailto:luigipizzolito@hotmail.com).
+- 📫 How to reach me: DM me on any social media, or [email](mailto:luigi.pizzolito@hotmail.com).
 
 ---
 
