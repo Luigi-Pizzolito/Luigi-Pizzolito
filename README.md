@@ -39,7 +39,7 @@
 
 ### :speech_balloon: About Me :
 
-I'm a student, electronics and software hobbyist, all around nerd, from Brasil & Italy.
+I'm a student, electronics and software hobbyist, all around nerd, from Brasil & Italy. See my website at [luigipizzolito.com](https://www.luigipizzolito.com/)
 
 <!-- - 🔭 I’m currently working on ... -->
 - :toolbox: I'm interested in: electronic product development, networking and web, Linux, embedded system design, open-source, and software engineering.
