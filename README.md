@@ -43,7 +43,7 @@ I'm a student, electronics and software hobbyist, all around nerd, from Brasil &
 
 <!-- - 🔭 I’m currently working on ... -->
 - :toolbox: I'm interested in: electronic product development, networking and web, Linux, embedded system design, open-source, and software engineering.
-- 🎓 I’m currently studying Information and Electronic Science & Technology BSc at Beijing Institute of Technology.
+- 🎓 I’m currently studying Electronics Engineering at Politecnico di Milano.
 - :mantelpiece_clock: In my free time, I work on hardware and software projects. Which you can find on here, on my social media, or on my website (click my logo above).
 - :notes: My hobbies include: playing bass guitar, producing music, sound engineering for theatre, 3D animation and motion graphics effects.
 - :computer: I use Arch Linux, btw. Also Windows, and previously MacOS.
